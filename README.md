@@ -82,13 +82,23 @@ DEFAULT_IMG=https://url-default-img-profile
 ## 🔎 Preview Pages
 
 <span align="center">
-<a href="https://ibb.co/PtYTTHz"><img src="https://i.ibb.co/qxn00QF/Screenshot-2023-03-06-020525.png" alt="Screenshot-2023-03-06-020525" border="0"></a>
-<a href="https://ibb.co/ZWL9wHM"><img src="https://i.ibb.co/5BMZzYR/08-06-2022-16-39-34-REC.png" alt="08-06-2022-16-39-34-REC" border="0"></a>
-<a href="https://ibb.co/QYgxWT6"><img src="https://i.ibb.co/tYG10vb/08-06-2022-16-39-06-REC.png" alt="08-06-2022-16-39-06-REC" border="0"></a>
-<a href="https://ibb.co/7SMN507"><img src="https://i.ibb.co/PrXznVB/08-06-2022-16-38-43-REC.png" alt="08-06-2022-16-38-43-REC" border="0"></a>
-<a href="https://ibb.co/zbJrL9j"><img src="https://i.ibb.co/ZKmVw4t/08-06-2022-16-38-13-REC.png" alt="08-06-2022-16-38-13-REC" border="0"></a>
-<a href="https://ibb.co/fdnGczV"><img src="https://i.ibb.co/ZzY1ZpR/08-06-2022-16-37-55-REC.png" alt="08-06-2022-16-37-55-REC" border="0"></a>
-<br>
+<a href="https://ibb.co/GWGKNLq"><img src="https://i.ibb.co/0C1gvSx/Screenshot-2023-03-06-024809.png" alt="Screenshot-2023-03-06-024809" border="0"></a>
+<a href="https://ibb.co/ZgfKHzY"><img src="https://i.ibb.co/pK1ZWjR/Screenshot-2023-03-06-023005.png" alt="Screenshot-2023-03-06-023005" border="0"></a>
+<a href="https://ibb.co/b2gSQCB"><img src="https://i.ibb.co/3MyD4jN/Screenshot-2023-03-06-023206.png" alt="Screenshot-2023-03-06-023206" border="0"></a>
+<a href="https://ibb.co/mTwxr8N"><img src="https://i.ibb.co/F3MPkVH/Screenshot-2023-03-06-023313.png" alt="Screenshot-2023-03-06-023313" border="0"></a>
+<a href="https://ibb.co/zRnvK9z"><img src="https://i.ibb.co/gTjKsqx/Screenshot-2023-03-06-023444.png" alt="Screenshot-2023-03-06-023444" border="0"></a>
+<a href="https://ibb.co/Tkv5cmm"><img src="https://i.ibb.co/vHw81ZZ/Screenshot-2023-03-06-023606.png" alt="Screenshot-2023-03-06-023606" border="0"></a>
+<a href="https://ibb.co/Kr4zmzh"><img src="https://i.ibb.co/Js6FCFt/Screenshot-2023-03-06-023726.png" alt="Screenshot-2023-03-06-023726" border="0"></a>
+<a href="https://ibb.co/jW82C6Z"><img src="https://i.ibb.co/61yxKnJ/Screenshot-2023-03-06-023829.png" alt="Screenshot-2023-03-06-023829" border="0"></a>
+<a href="https://ibb.co/GRwr96y"><img src="https://i.ibb.co/kXnPJ7j/Screenshot-2023-03-06-023918.png" alt="Screenshot-2023-03-06-023918" border="0"></a>
+<a href="https://ibb.co/9W1Bb0F"><img src="https://i.ibb.co/Yh1JcSz/Screenshot-2023-03-06-024020.png" alt="Screenshot-2023-03-06-024020" border="0"></a>
+<a href="https://ibb.co/K94zqvW"><img src="https://i.ibb.co/VvnpS4T/ss.png" alt="ss" border="0"></a>
+<a href="https://ibb.co/Bw9pGXD"><img src="https://i.ibb.co/qxvSCtG/Screenshot-2023-03-06-024247.png" alt="Screenshot-2023-03-06-024247" border="0"></a>
+<a href="https://ibb.co/9HG6fzz"><img src="https://i.ibb.co/RT7fMZZ/Screenshot-2023-03-06-024341.png" alt="Screenshot-2023-03-06-024341" border="0"></a>
+<a href="https://ibb.co/smb4sv4"><img src="https://i.ibb.co/5MG3sW3/Screenshot-2023-03-06-024433.png" alt="Screenshot-2023-03-06-024433" border="0"></a>
+<a href="https://ibb.co/N26jht2"><img src="https://i.ibb.co/0yjMNmy/Screenshot-2023-03-06-024512.png" alt="Screenshot-2023-03-06-024512" border="0"></a>
+<a href="https://ibb.co/2P9bKC0"><img src="https://i.ibb.co/xGk45BK/Screenshot-2023-03-06-024556.png" alt="Screenshot-2023-03-06-024556" border="0"></a>
+<a href="https://ibb.co/m9NhG7L"><img src="https://i.ibb.co/T4WPk5V/Screenshot-2023-03-06-024637.png" alt="Screenshot-2023-03-06-024637" border="0"></a>
 </span>
 
 <br>
