@@ -7,9 +7,6 @@
     <a href="https://github.com/donny17-bit/nontonYukReactNative/pulls">Request Feature</a>
   </p>
 
-<p align="center">
- <a href="https://ibb.co/cc1ThB8"><img src="https://i.ibb.co/99NYHD4/08-06-2022-14-51-13-REC.png" alt="08-06-2022-14-51-13-REC" border="0" width="800px"></a>
-</p>
 
 ## About The Project
 
@@ -85,6 +82,7 @@ DEFAULT_IMG=https://url-default-img-profile
 ## 🔎 Preview Pages
 
 <span align="center">
+<a href="https://ibb.co/PtYTTHz"><img src="https://i.ibb.co/qxn00QF/Screenshot-2023-03-06-020525.png" alt="Screenshot-2023-03-06-020525" border="0"></a>
 <a href="https://ibb.co/ZWL9wHM"><img src="https://i.ibb.co/5BMZzYR/08-06-2022-16-39-34-REC.png" alt="08-06-2022-16-39-34-REC" border="0"></a>
 <a href="https://ibb.co/QYgxWT6"><img src="https://i.ibb.co/tYG10vb/08-06-2022-16-39-06-REC.png" alt="08-06-2022-16-39-06-REC" border="0"></a>
 <a href="https://ibb.co/7SMN507"><img src="https://i.ibb.co/PrXznVB/08-06-2022-16-38-43-REC.png" alt="08-06-2022-16-38-43-REC" border="0"></a>
