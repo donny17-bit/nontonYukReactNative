@@ -1,4 +1,4 @@
-<h1 align='center'>itJobs</h1>
+<h1 align='center'>nontonYuk Mobile</h1>
   <p align="center">
     <a href="https://itjobs-projects.vercel.app/">View Demo</a>
     ·
@@ -18,7 +18,7 @@ Movie Tiketing Mobile App
 ## Built With
 
 [![ReactNative](https://img.shields.io/badge/ReactNative-0.68.2-green)](https://reactnative.dev/)
-[![ReactNative](https://img.shields.io/badge/nodeJS-18.14.2-orange)](https://nodejs.org/en/download/) 
+[![NodeJs](https://img.shields.io/badge/nodeJS-18.14.2-orange)](https://nodejs.org/en/download/) 
 
 ## Requirements
 
@@ -30,9 +30,9 @@ Movie Tiketing Mobile App
 6. Node_modules `npm install` or `yarn install`
 7. Backend API nontonYuk [`here`](https://github.com/donny17-bit/nontonYuk)
 
-## Demo Accounts
+## Demo Account
 
-user account : user@gmail.com
+user account : user@mail.com
 <br>
 password : 12345
 
@@ -59,28 +59,28 @@ DEFAULT_IMG=https://url-default-img-profile
 ## Acknowledgements
 
 - [axios](https://www.npmjs.com/package/axios)
-- [bootstrap](https://www.npmjs.com/package/bootstrap)
-- [next](https://www.npmjs.com/package/next)
-- [node-sass](https://www.npmjs.com/package/node-sass)
-- [qs](https://www.npmjs.com/package/qs)
 - [react](https://www.npmjs.com/package/react)
-- [react-bootstrap](https://www.npmjs.com/package/react-bootstrap)
-- [react-dom](https://www.npmjs.com/package/react-dom)
-- [react-icons](https://www.npmjs.com/package/react-icons)
+- [react-native](https://reactnative.dev/)
+- [react-native-date-picker](https://www.npmjs.com/package/react-native-date-picker)
+- [react-native-dotenv](https://www.npmjs.com/package/react-native-dotenv)
+- [react-native-gesture-handler](https://www.npmjs.com/package/react-native-gesture-handler)
+- [react-native-image-picker](https://www.npmjs.com/package/react-native-image-picker)
+- [react-native-modal](https://www.npmjs.com/package/react-native-modal)
+- [react-native-reanimated](https://www.npmjs.com/package/react-native-reanimated)
+- [react-native-safe-area-context](https://www.npmjs.com/package/react-native-safe-area-context)
+- [react-native-screens](https://www.npmjs.com/package/react-native-screens)
+- [react-native-select-dropdown](https://www.npmjs.com/package/react-native-select-dropdown)
+- [react-native-vector-icons](https://www.npmjs.com/package/react-native-vector-icons)
+- [react-native-webview](https://www.npmjs.com/package/react-native-webview)
 - [react-redux](https://www.npmjs.com/package/react-redux)
 - [redux](https://www.npmjs.com/package/redux)
 - [redux-logger](https://www.npmjs.com/package/redux-logger)
+- [redux-persist](https://www.npmjs.com/package/redux-persist)
 - [redux-promise-middleware](https://www.npmjs.com/package/redux-promise-middleware)
-- [redux-thunk](https://www.npmjs.com/package/redux-thunk)
-- [eslint](https://www.npmjs.com/package/eslint)
-- [sass](https://www.npmjs.com/package/sass)
-- [js-cookie](https://www.npmjs.com/package/js-cookie)
-- [cookies](https://www.npmjs.com/package/cookies)
-- [react-paginate](https://www.npmjs.com/package/react-paginate)
 
 ## License
 
-© [itJobs](https://github.com/thariqfarsha/itjobs-frontend.git)
+© [nontonYukMobile](https://github.com/donny17-bit/nontonYukReactNative/)
 
 ## 🔎 Preview Pages
 
@@ -95,31 +95,32 @@ DEFAULT_IMG=https://url-default-img-profile
 
 <br>
 
-## ✍️ itJobs - Backend Link
+## ✍️ nontonYuk - Backend Link
 
-https://github.com/thariqfarsha/itjobs-backend.git
+https://github.com/donny17-bit/nontonYuk
 
 <br>
 
 ## ⛏️ Built Using
 
 - [axios](https://www.npmjs.com/package/axios)
-- [bootstrap](https://www.npmjs.com/package/bootstrap)
-- [next](https://www.npmjs.com/package/next)
-- [node-sass](https://www.npmjs.com/package/node-sass)
-- [qs](https://www.npmjs.com/package/qs)
 - [react](https://www.npmjs.com/package/react)
-- [react-bootstrap](https://www.npmjs.com/package/react-bootstrap)
-- [react-dom](https://www.npmjs.com/package/react-dom)
-- [react-icons](https://www.npmjs.com/package/react-icons)
-- [react-number-format](https://www.npmjs.com/package/react-number-format)
+- [react-native](https://reactnative.dev/)
+- [react-native-date-picker](https://www.npmjs.com/package/react-native-date-picker)
+- [react-native-dotenv](https://www.npmjs.com/package/react-native-dotenv)
+- [react-native-gesture-handler](https://www.npmjs.com/package/react-native-gesture-handler)
+- [react-native-image-picker](https://www.npmjs.com/package/react-native-image-picker)
+- [react-native-modal](https://www.npmjs.com/package/react-native-modal)
+- [react-native-reanimated](https://www.npmjs.com/package/react-native-reanimated)
+- [react-native-safe-area-context](https://www.npmjs.com/package/react-native-safe-area-context)
+- [react-native-screens](https://www.npmjs.com/package/react-native-screens)
+- [react-native-select-dropdown](https://www.npmjs.com/package/react-native-select-dropdown)
+- [react-native-vector-icons](https://www.npmjs.com/package/react-native-vector-icons)
+- [react-native-webview](https://www.npmjs.com/package/react-native-webview)
 - [react-redux](https://www.npmjs.com/package/react-redux)
-- [react-responsive-carousel](https://www.npmjs.com/package/react-responsive-carousel)
 - [redux](https://www.npmjs.com/package/redux)
 - [redux-logger](https://www.npmjs.com/package/redux-logger)
+- [redux-persist](https://www.npmjs.com/package/redux-persist)
 - [redux-promise-middleware](https://www.npmjs.com/package/redux-promise-middleware)
-- [redux-thunk](https://www.npmjs.com/package/redux-thunk)
-- [eslint](https://www.npmjs.com/package/eslint)
-- [sass](https://www.npmjs.com/package/sass)
 
 <br>
