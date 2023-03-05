@@ -1,6 +1,6 @@
 <h1 align='center'>nontonYuk Mobile</h1>
   <p align="center">
-    <a href="https://itjobs-projects.vercel.app/">View Demo</a>
+    <a href="https://github.com/donny17-bit/nontonYukReactNative/raw/master/app-debug.apk">Demo App</a>
     ·
     <a href="https://github.com/thariqfarsha/itjobs-frontend/issues">Report Bug</a>
     ·
