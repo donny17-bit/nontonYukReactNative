@@ -13,42 +13,48 @@
 
 ## About The Project
 
-Website Application Hire Job | Frontend Repository
+Movie Tiketing Mobile App
 
 ## Built With
 
-[![NodeJs](https://img.shields.io/badge/NodeJs-16.15.x-green)](https://github.com/react-bootstrap/react-bootstrap)
-[![Next](https://img.shields.io/badge/Next-v12.1.6-black)](https://nextjs.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-v4.6.x-purple)](https://github.com/react-bootstrap/react-bootstrap)
+[![ReactNative](https://img.shields.io/badge/ReactNative-0.68.2-green)](https://reactnative.dev/)
+[![ReactNative](https://img.shields.io/badge/nodeJS-18.14.2-orange)](https://nodejs.org/en/download/) 
 
 ## Requirements
 
 1. <a href="https://nodejs.org/en/download/">Node Js</a>
-2. Node_modules `npm install` or `yarn install`
-3. Backend API itJobs [`here`](https://github.com/thariqfarsha/itjobs-backend.git)
+2. <a href="https://openjdk.org/projects/jdk/11/">JDK 11</a>
+3. <a href="https://developer.android.com/studio">Android Studio</a>
+4. Install the android 12 SDK
+5. Configure the ANDROID_HOME environment [`here`](https://reactnative.dev/docs/environment-setup)
+6. Node_modules `npm install` or `yarn install`
+7. Backend API nontonYuk [`here`](https://github.com/donny17-bit/nontonYuk)
 
 ## Demo Accounts
 
-1. user account : jane@gmail.com
-   <br>
-   password : 123
-2. company account : goto@gmail.com
-   <br>
-   password : 123
+user account : user@gmail.com
+<br>
+password : 12345
+
+## Demo App
+
+You can download `app-debug.apk` file to install the app
 
 ## Getting Started
 
-1. Download this Project or you can type `git clone https://github.com/thariqfarsha/itjobs-frontend.git`
+1. Download this Project or you can type `git clone https://github.com/donny17-bit/nontonYukReactNative.git`
 2. Open app's directory in CMD or Terminal
 3. Type `npm install` or `yarn install`
-4. Add .env in nextConfig.js
+4. Add .env
 
-```sh
-URL_BACKEND: "https://itjobs-api.cyclic.app",
-URL_CLOUDINARY: "https://res.cloudinary.com/itjobs/image/upload/v1654266716",
+```
+URL=https://url-deploy-backend/
+CLOUDINARY=https:https://res.cloudinary.com/dusoicuhh/image/upload/v1652761552/
+DEFAULT_IMG=https://url-default-img-profile
 ```
 
-5. Type `npm run dev`
+5. Type `npx react-native start` to start metro
+6. On another terminal type `npx react-native run-android --no-jetifier` to start app without update
 
 ## Acknowledgements
 
